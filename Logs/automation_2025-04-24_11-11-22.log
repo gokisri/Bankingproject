@@ -1,0 +1,84 @@
+2025-04-24 11:11:28,024 - INFO - ===== Starting Admin Page Controls Test =====
+2025-04-24 11:11:28,024 - INFO - ===== Starting Admin Page Controls Test =====
+2025-04-24 11:11:28,024 - INFO - ===== Starting Admin Page Controls Test =====
+2025-04-24 11:11:28,026 - INFO - Navigating to Admin Page...
+2025-04-24 11:11:28,026 - INFO - Navigating to Admin Page...
+2025-04-24 11:11:28,026 - INFO - Navigating to Admin Page...
+2025-04-24 11:11:29,829 - INFO - Clicking Initialize button...
+2025-04-24 11:11:29,829 - INFO - Clicking Initialize button...
+2025-04-24 11:11:29,829 - INFO - Clicking Initialize button...
+2025-04-24 11:11:30,624 - INFO - Toggling SOAP service...
+2025-04-24 11:11:30,624 - INFO - Toggling SOAP service...
+2025-04-24 11:11:30,624 - INFO - Toggling SOAP service...
+2025-04-24 11:11:30,734 - INFO - Selecting REST XML mode...
+2025-04-24 11:11:30,734 - INFO - Selecting REST XML mode...
+2025-04-24 11:11:30,734 - INFO - Selecting REST XML mode...
+2025-04-24 11:11:30,832 - INFO - Selecting JDBC mode...
+2025-04-24 11:11:30,832 - INFO - Selecting JDBC mode...
+2025-04-24 11:11:30,832 - INFO - Selecting JDBC mode...
+2025-04-24 11:11:31,009 - INFO - Clicking Submit button...
+2025-04-24 11:11:31,009 - INFO - Clicking Submit button...
+2025-04-24 11:11:31,009 - INFO - Clicking Submit button...
+2025-04-24 11:11:31,509 - INFO - ===== Admin Page Controls Test Passed =====
+2025-04-24 11:11:31,509 - INFO - ===== Admin Page Controls Test Passed =====
+2025-04-24 11:11:31,509 - INFO - ===== Admin Page Controls Test Passed =====
+2025-04-24 11:11:37,789 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE815E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:37,789 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE815E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:37,789 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE815E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:41,858 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE81C40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:41,858 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE81C40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:41,858 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE81C40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:45,938 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE81DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:45,938 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE81DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:45,938 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161FAE81DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1ea04ff140c72e219b580f07f8d57016
+2025-04-24 11:11:50,019 - INFO - ====== WebDriver manager ======
+2025-04-24 11:11:50,019 - INFO - ====== WebDriver manager ======
+2025-04-24 11:11:50,019 - INFO - ====== WebDriver manager ======
+2025-04-24 11:11:51,297 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 11:11:51,297 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 11:11:51,297 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 11:11:51,405 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 11:11:51,405 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 11:11:51,405 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 11:11:51,495 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-24 11:11:51,495 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-24 11:11:51,495 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-24 11:11:52,742 - INFO - ********** Starting test_login **********
+2025-04-24 11:11:52,742 - INFO - ********** Starting test_login **********
+2025-04-24 11:11:52,742 - INFO - ********** Starting test_login **********
+2025-04-24 11:11:55,598 - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2025-04-24 11:11:55,598 - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2025-04-24 11:11:55,598 - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2025-04-24 11:11:55,992 - INFO - Entered Username
+2025-04-24 11:11:55,992 - INFO - Entered Username
+2025-04-24 11:11:55,992 - INFO - Entered Username
+2025-04-24 11:11:56,283 - INFO - Entered Password
+2025-04-24 11:11:56,283 - INFO - Entered Password
+2025-04-24 11:11:56,283 - INFO - Entered Password
+2025-04-24 11:11:57,466 - INFO - Clicked Login Button
+2025-04-24 11:11:57,466 - INFO - Clicked Login Button
+2025-04-24 11:11:57,466 - INFO - Clicked Login Button
+2025-04-24 11:11:57,493 - INFO - ********** Login Test Passed **********
+2025-04-24 11:11:57,493 - INFO - ********** Login Test Passed **********
+2025-04-24 11:11:57,493 - INFO - ********** Login Test Passed **********
+2025-04-24 11:11:58,881 - INFO - Logged out successfully
+2025-04-24 11:11:58,881 - INFO - Logged out successfully
+2025-04-24 11:11:58,881 - INFO - Logged out successfully
+2025-04-24 11:12:03,356 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 11:12:03,356 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 11:12:03,356 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 11:12:05,913 - INFO - Navigated to ParaBank
+2025-04-24 11:12:05,913 - INFO - Navigated to ParaBank
+2025-04-24 11:12:05,913 - INFO - Navigated to ParaBank
+2025-04-24 11:12:08,030 - INFO - Logged into customer account
+2025-04-24 11:12:08,030 - INFO - Logged into customer account
+2025-04-24 11:12:08,030 - INFO - Logged into customer account
+2025-04-24 11:12:08,894 - INFO - Navigated to 'Open New Account' page
+2025-04-24 11:12:08,894 - INFO - Navigated to 'Open New Account' page
+2025-04-24 11:12:08,894 - INFO - Navigated to 'Open New Account' page
+2025-04-24 11:12:10,554 - INFO - New account created successfully with account number: 13566
+2025-04-24 11:12:10,554 - INFO - New account created successfully with account number: 13566
+2025-04-24 11:12:10,554 - INFO - New account created successfully with account number: 13566
+2025-04-24 11:12:10,554 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********
+2025-04-24 11:12:10,554 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********
+2025-04-24 11:12:10,554 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********

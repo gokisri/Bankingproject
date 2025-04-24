@@ -1,0 +1,4 @@
+2025-04-23 22:56:29,898 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-23 22:56:32,556 - INFO - Navigated to ParaBank
+2025-04-23 22:56:33,751 - INFO - Logged into customer account
+2025-04-23 22:56:34,543 - INFO - Navigated to 'Open New Account' page

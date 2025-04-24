@@ -1,0 +1,6 @@
+2025-04-24 11:09:39,757 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 11:09:40,550 - INFO - Navigated to ParaBank
+2025-04-24 11:09:43,907 - INFO - Logged into customer account
+2025-04-24 11:09:44,435 - INFO - Navigated to 'Open New Account' page
+2025-04-24 11:09:45,682 - INFO - New account created successfully with account number: 13899
+2025-04-24 11:09:45,682 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********

@@ -1,0 +1,34 @@
+2025-04-24 01:04:18,156 - INFO - ===== Starting Admin Page Controls Test =====
+2025-04-24 01:04:18,160 - INFO - Navigating to Admin Page...
+2025-04-24 01:04:20,454 - INFO - Clicking Initialize button...
+2025-04-24 01:04:21,500 - INFO - Toggling SOAP service...
+2025-04-24 01:04:21,806 - INFO - Selecting REST XML mode...
+2025-04-24 01:04:22,149 - INFO - Selecting JDBC mode...
+2025-04-24 01:04:22,482 - INFO - Clicking Submit button...
+2025-04-24 01:04:23,109 - INFO - ===== Admin Page Controls Test Passed =====
+2025-04-24 01:04:29,529 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016702924530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53cff49d2bcbe6a1b8e9076e08e01a14
+2025-04-24 01:04:33,621 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016702925010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53cff49d2bcbe6a1b8e9076e08e01a14
+2025-04-24 01:04:37,707 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000167029251C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53cff49d2bcbe6a1b8e9076e08e01a14
+2025-04-24 01:04:41,771 - INFO - ====== WebDriver manager ======
+2025-04-24 01:04:44,348 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:04:44,467 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:04:44,565 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:04:44,811 - INFO - WebDriver version 135.0.7049.97 selected
+2025-04-24 01:04:44,827 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.97/win32/chromedriver-win32.zip
+2025-04-24 01:04:44,827 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.97/win32/chromedriver-win32.zip
+2025-04-24 01:04:44,959 - INFO - Driver downloading response is 200
+2025-04-24 01:04:47,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:04:47,742 - INFO - Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\chromedriver\win64\135.0.7049.97]
+2025-04-24 01:04:49,560 - INFO - ********** Starting test_login **********
+2025-04-24 01:04:53,136 - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2025-04-24 01:04:53,524 - INFO - Entered Username
+2025-04-24 01:04:53,928 - INFO - Entered Password
+2025-04-24 01:04:55,230 - INFO - Clicked Login Button
+2025-04-24 01:04:55,255 - INFO - ********** Login Test Passed **********
+2025-04-24 01:04:56,502 - INFO - Logged out successfully
+2025-04-24 01:05:00,797 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 01:05:04,809 - INFO - Navigated to ParaBank
+2025-04-24 01:05:07,033 - INFO - Logged into customer account
+2025-04-24 01:05:07,970 - INFO - Navigated to 'Open New Account' page
+2025-04-24 01:05:09,625 - INFO - New account created successfully with account number: 13566
+2025-04-24 01:05:09,625 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********

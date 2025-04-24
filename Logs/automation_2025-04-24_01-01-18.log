@@ -1,0 +1,12 @@
+2025-04-24 01:01:21,643 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 01:01:21,643 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 01:01:26,006 - INFO - Navigated to ParaBank
+2025-04-24 01:01:26,006 - INFO - Navigated to ParaBank
+2025-04-24 01:01:27,559 - INFO - Logged into customer account
+2025-04-24 01:01:27,559 - INFO - Logged into customer account
+2025-04-24 01:01:28,663 - INFO - Navigated to 'Open New Account' page
+2025-04-24 01:01:28,663 - INFO - Navigated to 'Open New Account' page
+2025-04-24 01:01:29,708 - INFO - New account created successfully with account number: 13566
+2025-04-24 01:01:29,708 - INFO - New account created successfully with account number: 13566
+2025-04-24 01:01:29,708 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********
+2025-04-24 01:01:29,708 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********

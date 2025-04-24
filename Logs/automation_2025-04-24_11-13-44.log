@@ -1,0 +1,18 @@
+2025-04-24 11:13:47,452 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 11:13:47,452 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 11:13:47,452 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 11:13:50,069 - INFO - Navigated to ParaBank
+2025-04-24 11:13:50,069 - INFO - Navigated to ParaBank
+2025-04-24 11:13:50,069 - INFO - Navigated to ParaBank
+2025-04-24 11:13:52,285 - INFO - Logged into customer account
+2025-04-24 11:13:52,285 - INFO - Logged into customer account
+2025-04-24 11:13:52,285 - INFO - Logged into customer account
+2025-04-24 11:13:53,692 - INFO - Navigated to 'Open New Account' page
+2025-04-24 11:13:53,692 - INFO - Navigated to 'Open New Account' page
+2025-04-24 11:13:53,692 - INFO - Navigated to 'Open New Account' page
+2025-04-24 11:13:55,320 - INFO - New account created successfully with account number: 14010
+2025-04-24 11:13:55,320 - INFO - New account created successfully with account number: 14010
+2025-04-24 11:13:55,320 - INFO - New account created successfully with account number: 14010
+2025-04-24 11:13:55,320 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********
+2025-04-24 11:13:55,320 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********
+2025-04-24 11:13:55,320 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********

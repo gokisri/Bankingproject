@@ -1,0 +1,60 @@
+2025-04-24 01:01:18,917 - INFO - xdist worker is: gw1
+2025-04-24 01:01:18,917 - INFO - xdist worker is: gw1
+2025-04-24 01:01:18,917 - INFO - ====== WebDriver manager ======
+2025-04-24 01:01:18,917 - INFO - ====== WebDriver manager ======
+2025-04-24 01:01:22,848 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:01:22,848 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:01:22,947 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:01:22,947 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:01:23,052 - INFO - There is no [win64] chromedriver "135.0.7049.97" for browser google-chrome "135.0.7049" in cache
+2025-04-24 01:01:23,052 - INFO - There is no [win64] chromedriver "135.0.7049.97" for browser google-chrome "135.0.7049" in cache
+2025-04-24 01:01:23,052 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:01:23,052 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:01:23,298 - INFO - WebDriver version 135.0.7049.97 selected
+2025-04-24 01:01:23,298 - INFO - WebDriver version 135.0.7049.97 selected
+2025-04-24 01:01:23,306 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.97/win32/chromedriver-win32.zip
+2025-04-24 01:01:23,306 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.97/win32/chromedriver-win32.zip
+2025-04-24 01:01:23,307 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.97/win32/chromedriver-win32.zip
+2025-04-24 01:01:23,307 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.97/win32/chromedriver-win32.zip
+2025-04-24 01:01:23,485 - INFO - Driver downloading response is 200
+2025-04-24 01:01:23,485 - INFO - Driver downloading response is 200
+2025-04-24 01:01:25,831 - INFO - ===== Starting Admin Page Controls Test =====
+2025-04-24 01:01:25,831 - INFO - ===== Starting Admin Page Controls Test =====
+2025-04-24 01:01:25,831 - INFO - Navigating to Admin Page...
+2025-04-24 01:01:25,831 - INFO - Navigating to Admin Page...
+2025-04-24 01:01:26,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:01:26,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 01:01:26,469 - INFO - Driver has been saved in cache [C:\Users\Admin\.wdm\gw1\drivers\chromedriver\win64\135.0.7049.97]
+2025-04-24 01:01:26,469 - INFO - Driver has been saved in cache [C:\Users\Admin\.wdm\gw1\drivers\chromedriver\win64\135.0.7049.97]
+2025-04-24 01:01:27,241 - INFO - Clicking Initialize button...
+2025-04-24 01:01:27,241 - INFO - Clicking Initialize button...
+2025-04-24 01:01:28,150 - INFO - Toggling SOAP service...
+2025-04-24 01:01:28,150 - INFO - Toggling SOAP service...
+2025-04-24 01:01:28,351 - INFO - ********** Starting test_login **********
+2025-04-24 01:01:28,351 - INFO - ********** Starting test_login **********
+2025-04-24 01:01:28,544 - INFO - Selecting REST XML mode...
+2025-04-24 01:01:28,544 - INFO - Selecting REST XML mode...
+2025-04-24 01:01:28,736 - INFO - Selecting JDBC mode...
+2025-04-24 01:01:28,736 - INFO - Selecting JDBC mode...
+2025-04-24 01:01:28,888 - INFO - Clicking Submit button...
+2025-04-24 01:01:28,888 - INFO - Clicking Submit button...
+2025-04-24 01:01:29,569 - INFO - ===== Admin Page Controls Test Passed =====
+2025-04-24 01:01:29,569 - INFO - ===== Admin Page Controls Test Passed =====
+2025-04-24 01:01:31,279 - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2025-04-24 01:01:31,279 - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2025-04-24 01:01:31,478 - INFO - Entered Username
+2025-04-24 01:01:31,478 - INFO - Entered Username
+2025-04-24 01:01:31,720 - INFO - Entered Password
+2025-04-24 01:01:31,720 - INFO - Entered Password
+2025-04-24 01:01:33,170 - INFO - Clicked Login Button
+2025-04-24 01:01:33,170 - INFO - Clicked Login Button
+2025-04-24 01:01:33,188 - INFO - ********** Login Test Passed **********
+2025-04-24 01:01:33,188 - INFO - ********** Login Test Passed **********
+2025-04-24 01:01:34,563 - INFO - Logged out successfully
+2025-04-24 01:01:34,563 - INFO - Logged out successfully
+2025-04-24 01:01:35,867 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE9D614BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9eda063340b1e070f7b768ea71696299
+2025-04-24 01:01:35,867 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE9D614BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9eda063340b1e070f7b768ea71696299
+2025-04-24 01:01:39,962 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE9D615190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9eda063340b1e070f7b768ea71696299
+2025-04-24 01:01:39,962 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE9D615190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9eda063340b1e070f7b768ea71696299
+2025-04-24 01:01:44,014 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE9D615310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9eda063340b1e070f7b768ea71696299
+2025-04-24 01:01:44,014 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE9D615310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9eda063340b1e070f7b768ea71696299

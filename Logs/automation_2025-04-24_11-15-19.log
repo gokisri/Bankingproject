@@ -1,0 +1,28 @@
+2025-04-24 11:15:25,719 - INFO - ===== Starting Admin Page Controls Test =====
+2025-04-24 11:15:25,722 - INFO - Navigating to Admin Page...
+2025-04-24 11:15:27,644 - INFO - Clicking Initialize button...
+2025-04-24 11:15:28,878 - INFO - Toggling SOAP service...
+2025-04-24 11:15:29,297 - INFO - Selecting REST XML mode...
+2025-04-24 11:15:29,614 - INFO - Selecting JDBC mode...
+2025-04-24 11:15:29,924 - INFO - Clicking Submit button...
+2025-04-24 11:15:30,716 - INFO - ===== Admin Page Controls Test Passed =====
+2025-04-24 11:15:37,104 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002768D525460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9fa81b624ebf078ae757a4ec3f177cc8
+2025-04-24 11:15:41,179 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002768D525D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9fa81b624ebf078ae757a4ec3f177cc8
+2025-04-24 11:15:45,266 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002768D525EB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9fa81b624ebf078ae757a4ec3f177cc8
+2025-04-24 11:15:49,352 - INFO - ====== WebDriver manager ======
+2025-04-24 11:15:51,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 11:15:51,838 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-24 11:15:51,951 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-24 11:15:53,503 - INFO - ********** Starting test_login **********
+2025-04-24 11:15:56,170 - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2025-04-24 11:15:56,552 - INFO - Entered Username
+2025-04-24 11:15:56,959 - INFO - Entered Password
+2025-04-24 11:15:58,323 - INFO - Clicked Login Button
+2025-04-24 11:15:58,348 - INFO - ********** Login Test Passed **********
+2025-04-24 11:16:00,010 - INFO - Logged out successfully
+2025-04-24 11:16:04,510 - INFO - ********** TC_CUST_01_OpenNewAccount STARTED **********
+2025-04-24 11:16:07,400 - INFO - Navigated to ParaBank
+2025-04-24 11:16:09,540 - INFO - Logged into customer account
+2025-04-24 11:16:10,359 - INFO - Navigated to 'Open New Account' page
+2025-04-24 11:16:12,009 - INFO - New account created successfully with account number: 13566
+2025-04-24 11:16:12,009 - INFO - ********** TC_CUST_01_OpenNewAccount COMPLETED **********
